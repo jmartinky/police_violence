@@ -1,6 +1,4 @@
 import pandas as pd
-import numpy as np
-import matplotlib as plt
 from icecream import ic
 
 ## read officer involved death data
